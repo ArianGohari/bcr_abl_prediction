@@ -1,1 +1,3 @@
-# bcr_abl_prediction
+# Predicting BCR-ABL fusion gene presence by gene expression profiles of B-cell Acute Lymphocytic Leukemia patients
+<br/>
+The BCR-ABL fusion gene is an oncogenic gene that results from the breackage and subsequent translocation of chromosomes 9 and 22. It is found in most patients with chronic myelogenous leukemia (CML) and in some patients with acute lymphoblastic leukemia (ALL). The resulting protein affects multiple signaling pathways that directly affect apoptotic potential, cell division rates and different stages of the cell cycle to achieve the unchecked proliferation characteristic of CML and ALL. Bioconductor's "ALL" dataset contains gene expression profiles of T- and B-cell Acute Lymphocytic Leukemia patients. In this project a subset of the data was used to train an Artificial Neural Network in order to predict the presence of the BCR-ABL fusion gene in B-cell Acute Lymphocytic Leukemia patients by gene expression profiels
